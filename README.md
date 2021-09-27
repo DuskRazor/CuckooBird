@@ -13,3 +13,4 @@
 #唯一的心得：
   当鸟碰撞后，弹出gameover，想做出可以重新开始的效果，想了很久，最后将最关键的那几个boolean类型变量start，crash，over，以及鸟和障碍物偏移的距离设为最初的
   值，实现了重开游戏的效果，在reopen()中。
+![blueBird_1](https://user-images.githubusercontent.com/90468877/134829456-8ae7c77e-0ac2-4407-aec9-16ce01eb5507.png)
