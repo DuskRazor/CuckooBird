@@ -11,8 +11,8 @@
 6.Cuckoo类中集合了大量的静态属性，导致类有些臃肿  
 
 #唯一的心得：  
-  当鸟碰撞后，弹出gameover，想做出可以重新开始的效果，想了很久，最后将最关键的那几个boolean类型变量start，crash，over，以及鸟和障碍物偏移的距离设为最初的  
-值，实现了重开游戏的效果，在reopen()中。  
+  当鸟碰撞后，弹出gameover，想做出可以重新开始的效果，想了很久，最后将最关键的那几个boolean类型变量start，crash，over，以及鸟和障碍物偏移的距离设为最初的值，实现了
+  重开游戏的效果，在reopen()中。  
  
 ![image](https://user-images.githubusercontent.com/90468877/134829533-eaa7e0e4-cec7-452c-bbad-5fd6a1f34924.png)![image](https://user-images.githubusercontent.com/90468877/134829583-9e4c700f-43ed-4da5-9234-b92df8fee4ff.png)![image](https://user-images.githubusercontent.com/90468877/134829560-a3e6e2fd-6652-4251-becf-7955aaa877dd.png)
 
